@@ -1,5 +1,7 @@
-<h2 align="center">We are My Designs</h2>
-<h5 align="center">A content creator</h5>
+
+<h2 align="center"><img src="./bitmap.png" alt="My Designs" text-align="center" width="96" height="96"> <br/>MY DESIGNS</h2>
+
+<h3 align="center">Digital Content Creator</h5>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mydesignsyoutube&label=Profile%20views&color=0e75b6&style=flat" alt="mydesignsyoutube" /> </p>
 
