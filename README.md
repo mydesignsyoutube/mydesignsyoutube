@@ -19,7 +19,7 @@
 <p align="left">
 <a href="https://twitter.com/mydesignsyt" target="blank"><img align="center" src="https://img.icons8.com/color/24/000000/twitter--v2.png" alt="MydesignsYT" height="30" width="30" /></a>
 <a href="https://instagram.com/mydesignsyoutube" target="blank"><img align="center" src="https://img.icons8.com/fluent/24/000000/instagram-new.png" alt="mydesignsyoutube" height="30" width="30" /></a>
-<a href="https://www.youtube.com/c/uc6m25p8g89h-dwe9oobnflw" target="blank"><img align="center" src="https://img.icons8.com/color/24/000000/youtube-play.png" alt="uc6m25p8g89h-dwe9oobnflw" height="40" width="40" /></a>
+<a href="https://www.youtube.com/channel/UC6m25P8g89h-DWE9OobnfLw?sub_confirmation=1" target="blank"><img align="center" src="https://img.icons8.com/color/24/000000/youtube-play.png" alt="My Designs Youtube" height="40" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
